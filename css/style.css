@@ -20,7 +20,9 @@ h5,
 h6 {
     font-family: "Raleway"sans-serif;
 }
-
+.row{
+    margin-bottom: 30px;
+}
 p {
     font-family: "Open Sans", sans-serif;
     font-size: 13px;
