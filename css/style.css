@@ -377,7 +377,7 @@ animation: typing 3s steps(40, end), blink-caret .5s, step-end infinite;
 .service h4 {
     font-size: 24px;
     margin: 0 0 8px 0;
-    color: blue;
+    color: #0e2433;
 }
 
 .service p {
