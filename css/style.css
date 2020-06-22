@@ -112,6 +112,7 @@ animation: typing 3s steps(40, end), blink-caret .5s, step-end infinite;
     margin-top: 30px;
    width: 200px;
     border-radius: 50%;
+    backgroung-color: #fff;
 }
 
 /*Button*/
